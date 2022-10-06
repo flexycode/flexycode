@@ -32,7 +32,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 ### 🔑 ₿lockchain Technology
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/124059/screenshots/4638407/shot.gif"/>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=flexyledger&icon=0&color=0)](https://visitcount.itsvg.in)
