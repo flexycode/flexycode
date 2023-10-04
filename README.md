@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1>
-<h3 align="center">Fullstack Web2 and Web3 Developer</h3>
+<h3 align="center">AI Promt Engineer, Machine Learning Practioner and Web3 Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
 
 
 # 💫 About Me:
-🔭 I’m currently working on Website,personal projects and Porfolio<br>
-👯 I’m looking to collaborate on any Web2 and Web3 projects<br>
-🤝 I’m looking for help to work with Cloud Computing, Artificial Intelligence, Project Management, IT Service Management,VR and AR<br>
+🔭 I’m currently studying on Artificial Intelligence,Machine Learning and Quantum Technology<br>
+👯 I’m looking to collaborate on any Data Science, LLM and Web3 projects<br>
+🤝 I’m looking for help to work with Cloud Computing, Artificial Intelligence, Project Management, Blockchain,VR and AR<br>
 🤝 Blockchain Technology, Internet of Things(IoT), 5G, Edge Computing, Cyber Security, Quantum Computing, Robotic Process Automation<br>
 🌱 I’m currently learning more about Rust, Java and other Blockchain EVM<br>
 💬 Ask me about Html, CSS, Javascript, React, APIs, SEO, Python<br>
-📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com<br>
+📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br>
 ⚡ Fun fact : I'm good in learning new things and adapt easily<br>
 
 
