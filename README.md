@@ -10,8 +10,8 @@
 🤝 I’m looking for help to work with Cloud Computing, Artificial Intelligence, Project Management, Blockchain,VR and AR<br>
 🤝 Blockchain Technology, Internet of Things(IoT), 5G, Edge Computing, Cyber Security, Quantum Computing, Robotic Process Automation<br>
 🌱 I’m currently learning more about Rust, Java and other Blockchain EVM<br>
-💬 Ask me about Html, CSS, Javascript, React, APIs, SEO, Python<br>
-📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br>
+💬 Ask me about AI and Machine Learning<br> 
+📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br> 
 ⚡ Fun fact : I'm good in learning new things and adapt easily<br>
 
 
