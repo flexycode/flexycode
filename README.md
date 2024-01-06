@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1> 
-<h3 align="center">AI Prompt Engineer, Machine Learning Practioner and Web3 Developer</h3>
+<h3 align="center">AI Prompt Engineer, Machine Learning Practioner and Blockchain Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
 
 
