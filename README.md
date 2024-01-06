@@ -11,7 +11,8 @@
 🤝 Blockchain Technology, Internet of Things(IoT), 5G, Edge Computing, Cyber Security, Quantum Computing, Robotic Process Automation<br>
 🌱 I’m currently learning more about Rust, Java and other Blockchain EVM<br>
 💬 Ask me about Artificial Intelligence and Machine Learning <br> 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆<br> 
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆<br>
+
 🌐 Kindly visit my other GitHub profile for more content related to blockchain development<br>
 📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br> 
 
