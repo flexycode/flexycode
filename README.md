@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1>   
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=🤖+🔗+♾️+🎸+" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=🤖+🔗+♾️+🎸+👨🏻‍💻+🐈+🐈" alt="Typing SVG" /></a></h3>
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=AI+Prompt+Engineer" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Artificial+Intelligence+Engineer" alt="Typing SVG" /></a>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Blockchain+Engineer" alt="Typing SVG" /></a>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
 </p>    
