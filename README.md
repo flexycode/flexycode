@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3> 
+<h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1> 
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=𒅒💙🧊💎💎+🇫+🇱+🇪+ㄨ+🇾+🇨+🇴+𝕯+🇪+💎💎🧊💙𒅒" alt="Typing SVG" /></a></h3> 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=🥴😗😜🥰😵‍💫🤐🤡🤣😴🤬😜😎🤔😲😨😉😘🐱👽" alt="Typing SVG" /></a></h3>
 <p align="center"> 
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Artificial+Intelligence+Engineer" alt="Typing SVG" /></a>
@@ -18,7 +19,7 @@
 🤝 Blockchain Technology, Internet of Things(IoT), 5G, Edge Computing, Cyber Security, Quantum Computing, Robotic Process Automation<br>
 🌱 I’m currently learning more about Rust, Java and other Blockchain EVM<br>
 💬 Ask me about Artificial Intelligence and Machine Learning <br> 
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
 ```bash 
 # Import the necessary libraries for AI
 import numpy as np
