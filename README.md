@@ -75,7 +75,8 @@ accuracy = accuracy_score(y_test, predictions)
 🌐 Kindly visit my other GitHub profile for more content related to blockchain development<br>
 📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br>  
 
-⚡Fun fact : I'm good at learning new things and adapting easily<br>
+⚡Fun fact : I'm good at learning new things and adapting easily, <br>
+⚡Fun fact : I love Final Fantasy, Science Fiction theory, Biology, Mutants and Galaxy Adventure  <br>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
 
 ## 🌐 Socials:  
@@ -108,6 +109,17 @@ accuracy = accuracy_score(y_test, predictions)
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=flexycode&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+
+## Icons for Commiting message
+* ♻️ - refactor getGithubUserContribution
+* ⬆️ - bump dependencies
+* ✨ - read contribution calendar from github api or remove some attributes
+* 📓 - commit or add readme
+* 👷 - add manual run, repair
+* 🚑 - import or also commit
+* 🔨 - fix algorithm priority
+* 🚀 - add emojis
+* 🤫 - smiley face can also use for indicator for running or stopping some container
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
