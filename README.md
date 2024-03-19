@@ -28,6 +28,26 @@
 🌐 Kindly visit my other GitHub profile for more content related to blockchain development<br>
 📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br>  
 
+<div style="display: flex; justify-content: space-between;">
+<img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/Sr4D0JYXItF1C/giphy.gif?cid=ecf05e47g9fxd637tsvrne6enbfvgf08vl6abgg2vmjhhsg3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/56ftHnRhmdpNC/giphy.gif?cid=790b7611n8v5qw2o1c61rnekfs2uu8kh1exs4c9tzcw3pys1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+   
+  <img width="200" height="200" src="https://media.giphy.com/media/c6EsRlEmxPUQ6jvlIJ/giphy.gif?cid=ecf05e47g3zptts3bcdduevx1pfrvaqlw9or10heciyly56k&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/gDU3K2ooKk9VXMBara/giphy.gif?cid=ecf05e47qyr5n4obt943e7tsv04wvjq0ggvf1835q9usxjgj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/tV2SncdfCaxK2cJyYN/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/c6EsRlEmxPUQ6jvlIJ/giphy.gif?cid=ecf05e47g3zptts3bcdduevx1pfrvaqlw9or10heciyly56k&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+
+
+<img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/jXL1LqDFPhEVGW3lSt/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/kXmDKChS2gETDzTH2G/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+
+</div>
+
+<br>
 ⚡Fun fact : I'm good at learning new things and adapting easily, <br>
 ⚡Fun fact : I love Final Fantasy, Science Fiction theory, Biology, Mutants and Galaxy Adventure  <br>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
