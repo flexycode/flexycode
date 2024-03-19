@@ -83,19 +83,30 @@ accuracy = accuracy_score(y_test, predictions)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/flexyledger#5660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flexyledger)     
 
 # Main Skills
-<a href="https://doc.rust-lang.org/std/all.html"><img src="./assets/Rust.svg" alt="rust" height="100" title="Rust documentation"></a>
-<a href="https://docs.soliditylang.org/en/v0.8.25"><img src="./assets/Solidity.svg" alt="solidity" height="100" title="Solidity documentation"></a>
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
+<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a> 
+<a href="https://doc.rust-lang.org/std/all.html"><img src="./assets/Rust.svg" alt="rust" height="100" title="Rust documentation"></a>
+<a href="https://docs.soliditylang.org/en/v0.8.25"><img src="./assets/Solidity.svg" alt="solidity" height="100" title="Solidity documentation"></a>
+<a href="https://www.linuxfoundation.org"><img src="./assets/Linux-Logo.svg" alt="linux" height="100" title="Linux"></a>
+
+## 💻 My tools and technologies for Blockchain Devevelopment
+<a href="https://ethereum.org/en"><img src="./assets/Ethereum.svg" alt="solidity" height="100" title="Ethereum documentation"></a>
+<a href="https://docs.soliditylang.org/en/v0.8.25"><img src="./assets/Solidity.svg" alt="solidity" height="100" title="Solidity documentation"></a>
+<a href="https://doc.rust-lang.org/std/all.html"><img src="./assets/Rust.svg" alt="rust" height="100" title="Rust documentation"></a>
+<a href="https://www.linuxfoundation.org"><img src="./assets/Linux-Logo.svg" alt="linux" height="100" title="Linux"></a>
+
+## 💻 My tools and technologies for AI and ML Devevelopment
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://www.r-project.org"><img src="./assets/R_programming_language-Logo.svg" alt="R" height="100" title="R documentation"></a>
 
 ## 💻 My favorite tools and technologies for Full Stack Devevelopment
 
