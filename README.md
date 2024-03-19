@@ -82,8 +82,9 @@ accuracy = accuracy_score(y_test, predictions)
 ## 🌐 Socials:  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/flexyledger#5660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flexyledger)     
 
-# Main Skills 
-
+# Main Skills
+<a href="https://doc.rust-lang.org/std/all.html"><img src="./assets/Rust.svg" alt="rust" height="100" title="Rust documentation"></a>
+<a href="https://docs.soliditylang.org/en/v0.8.25"><img src="./assets/Solidity.svg" alt="solidity" height="100" title="Solidity documentation"></a>
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
