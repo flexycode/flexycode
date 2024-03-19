@@ -53,19 +53,6 @@
 <a href="https://www.linuxfoundation.org"><img src="./assets/Linux-Logo.svg" alt="linux" height="100" title="Linux"></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="./assets/Bash_Unix_shell-Logo.svg" alt="bash" height="100" title="Bash"></a>
 
-## 💻 My tools and technologies for Blockchain Devevelopment
-<a href="https://ethereum.org/en"><img src="./assets/Ethereum.svg" alt="ethereum" height="100" title="Ethereum documentation"></a>
-<a href="https://ethereum.org/en"><img src="./assets/Ethereum_Classic-Logo.svg" alt="ethereum-classic" height="100" title="Ethereum Classic documentation"></a>
-<a href="https://docs.soliditylang.org/en/v0.8.25"><img src="./assets/Solidity.svg" alt="solidity" height="100" title="Solidity documentation"></a>
-<a href="https://doc.rust-lang.org/std/all.html"><img src="./assets/Rust.svg" alt="rust" height="100" title="Rust documentation"></a>
-<a href="https://developer.bitcoin.org"><img src="./assets/Bitcoin-Logo.wine.svg" alt="bitcoin" height="100" title="Bitcoin documentation"></a>
-<a href="https://www.linuxfoundation.org"><img src="./assets/Linux-Logo.svg" alt="linux" height="100" title="Linux"></a>
-
-## 💻 My tools and technologies for AI and ML Devevelopment
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://www.r-project.org"><img src="./assets/R_programming_language-Logo.svg" alt="R" height="100" title="R documentation"></a>
-<a href="https://www.r-project.org"><img src="./assets/Julia_programming_language-Logo.svg" alt="Julia" height="100" title="Julia documentation"></a>
-
 ## 💻 My favorite tools and technologies for Full Stack Devevelopment
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -193,7 +180,28 @@
 
 <p align="center">
 
-### 💻 Some Technology Stacks that I used:
+## 💻 My tools and technologies for Blockchain Devevelopment
+<a href="https://ethereum.org/en"><img src="./assets/Ethereum.svg" alt="ethereum" height="100" title="Ethereum documentation"></a>
+<a href="https://ethereum.org/en"><img src="./assets/Ethereum_Classic-Logo.svg" alt="ethereum-classic" height="100" title="Ethereum Classic documentation"></a>
+<a href="https://docs.soliditylang.org/en/v0.8.25"><img src="./assets/Solidity.svg" alt="solidity" height="100" title="Solidity documentation"></a>
+<a href="https://doc.rust-lang.org/std/all.html"><img src="./assets/Rust.svg" alt="rust" height="100" title="Rust documentation"></a>
+<a href="https://developer.bitcoin.org"><img src="./assets/Bitcoin-Logo.wine.svg" alt="bitcoin" height="100" title="Bitcoin documentation"></a>
+<a href="https://www.linuxfoundation.org"><img src="./assets/Linux-Logo.svg" alt="linux" height="100" title="Linux"></a>
+<a href="https://ubuntu.com/"><img src="./assets/ubuntu.svg" alt="ubuntu" height="100" title="Ubuntu"></a>
+
+## 💻 My tools and technologies for AI and ML Devevelopment
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://www.r-project.org"><img src="./assets/R_programming_language-Logo.svg" alt="R" height="100" title="R documentation"></a>
+<a href="https://julialang.org"><img src="./assets/Julia_programming_language-Logo.svg" alt="Julia" height="100" title="Julia documentation"></a>
+<a href="https://colab.research.google.com/"><img src="./assets/Google_Colaboratory.svg" alt="colab" height="100" title="Google Collab"></a>
+
+## 💻 My tools and technologies for Game Devevelopment, Architecture and Visualization
+<a href="https://devdocs.io/cpp"><img src="./assets/C++-Logo.svg" alt="C++" height="100" title="C++ documentation"></a>
+<a href="https://devdocs.io/lua~5.4/index#3.4.4"><img src="./assets/Lua.svg" alt="lua" height="100" title="Lua"></a>
+<a href="https://www.autodesk.com"><img src="./assets/Autodesk-Logo.svg" alt="autocad" height="100" title="Autodesk Autocadd"></a>
+<a href="https://www.microsoft.com/en-us/download/details.aspx?id=35"><img src="./assets/DirectX-Logo.svg" alt="directX" height="100" title="Direct X documentation"></a>
+
+## 💻 Some Technology Stacks that I used:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)                
 
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
