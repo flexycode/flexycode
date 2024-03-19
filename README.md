@@ -20,56 +20,9 @@
 🤝 I would love to level-up my knowledge in BioInformatics, Cyber Security, Quantum Computing, Robotic Process Automation <br>
 🌱 I’m currently learning more about Rust, Java and other Blockchain EVM<br>
 💬 Ask me about Artificial Intelligence and Machine Learning <br> 
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
-```bash 
-# Import the necessary libraries for AI
-import numpy as np
-import pandas as pd 
-import tensorflow as tf 
 
-# Define the AI model architecture
-model = tf.keras.Sequential()
-model.add(tf.keras.layers.Dense(64, activation='relu', input_dim=10))
-model.add(tf.keras.layers.Dense(64, activation='relu'))
-model.add(tf.keras.layers.Dense(1, activation='sigmoid'))
-
-# Compile and train the AI model
-model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-model.fit(X_train, y_train, epochs=10, batch_size=32)  
-
-# Use the AI model for predictions
-predictions = model.predict(X_test) 
-
-```
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
-```bash 
-# Import the necessary libraries for ML
-import numpy as np
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
 
-# Load the dataset
-data = pd.read_csv('data.csv') 
-X = data.drop('target', axis=1)
-y = data['target']
-
-# Split the dataset into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Train a logistic regression model
-model = LogisticRegression()
-model.fit(X_train, y_train)
-
-# Make predictions on the test set
-predictions = model.predict(X_test)
-
-# Calculate the accuracy of the model
-accuracy = accuracy_score(y_test, predictions)
-
-```
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 <br>
 
 🌐 Kindly visit my other GitHub profile for more content related to blockchain development<br>
@@ -96,17 +49,22 @@ accuracy = accuracy_score(y_test, predictions)
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a> 
 <a href="https://doc.rust-lang.org/std/all.html"><img src="./assets/Rust.svg" alt="rust" height="100" title="Rust documentation"></a>
 <a href="https://docs.soliditylang.org/en/v0.8.25"><img src="./assets/Solidity.svg" alt="solidity" height="100" title="Solidity documentation"></a>
+<a href="https://docs.github.com/en"><img src="./assets/GitHub-Logo.svg" alt="Github" height="100" title="GitHub documentation"></a>
 <a href="https://www.linuxfoundation.org"><img src="./assets/Linux-Logo.svg" alt="linux" height="100" title="Linux"></a>
+<a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="./assets/Bash_Unix_shell-Logo.svg" alt="bash" height="100" title="Bash"></a>
 
 ## 💻 My tools and technologies for Blockchain Devevelopment
-<a href="https://ethereum.org/en"><img src="./assets/Ethereum.svg" alt="solidity" height="100" title="Ethereum documentation"></a>
+<a href="https://ethereum.org/en"><img src="./assets/Ethereum.svg" alt="ethereum" height="100" title="Ethereum documentation"></a>
+<a href="https://ethereum.org/en"><img src="./assets/Ethereum_Classic-Logo.svg" alt="ethereum-classic" height="100" title="Ethereum Classic documentation"></a>
 <a href="https://docs.soliditylang.org/en/v0.8.25"><img src="./assets/Solidity.svg" alt="solidity" height="100" title="Solidity documentation"></a>
 <a href="https://doc.rust-lang.org/std/all.html"><img src="./assets/Rust.svg" alt="rust" height="100" title="Rust documentation"></a>
+<a href="https://developer.bitcoin.org"><img src="./assets/Bitcoin-Logo.wine.svg" alt="bitcoin" height="100" title="Bitcoin documentation"></a>
 <a href="https://www.linuxfoundation.org"><img src="./assets/Linux-Logo.svg" alt="linux" height="100" title="Linux"></a>
 
 ## 💻 My tools and technologies for AI and ML Devevelopment
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://www.r-project.org"><img src="./assets/R_programming_language-Logo.svg" alt="R" height="100" title="R documentation"></a>
+<a href="https://www.r-project.org"><img src="./assets/Julia_programming_language-Logo.svg" alt="Julia" height="100" title="Julia documentation"></a>
 
 ## 💻 My favorite tools and technologies for Full Stack Devevelopment
 
@@ -275,18 +233,74 @@ accuracy = accuracy_score(y_test, predictions)
 * 🤫 - smiley face can also use for indicator for running or stopping some container
 
 ### ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 ### 🧠🧠 Artificial Intelligence 🛸🛸
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://starfertility.life/category_images/blog495520.gif"/>
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
+<br>
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 
+```bash 
+# Import the necessary libraries for AI
+import numpy as np
+import pandas as pd 
+import tensorflow as tf 
+
+# Define the AI model architecture
+model = tf.keras.Sequential()
+model.add(tf.keras.layers.Dense(64, activation='relu', input_dim=10))
+model.add(tf.keras.layers.Dense(64, activation='relu'))
+model.add(tf.keras.layers.Dense(1, activation='sigmoid'))
+
+# Compile and train the AI model
+model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+model.fit(X_train, y_train, epochs=10, batch_size=32)  
+
+# Use the AI model for predictions
+predictions = model.predict(X_test) 
+
+``` 
+
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 ### 🌐⛓️ Blockchain Technology 💱🧊  
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/124059/screenshots/4638407/shot.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 
 ### 🤖🦾 Machine Learning 📈💡
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif"/>
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
+
+``` bash 
+# Import the necessary libraries for ML
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+
+# Load the dataset
+data = pd.read_csv('data.csv') 
+X = data.drop('target', axis=1)
+y = data['target']
+
+# Split the dataset into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Train a logistic regression model
+model = LogisticRegression()
+model.fit(X_train, y_train)
+
+# Make predictions on the test set
+predictions = model.predict(X_test)
+
+# Calculate the accuracy of the model
+accuracy = accuracy_score(y_test, predictions)
+
+```
+
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 
 ### 🔑🔐 Cryptography and Cybersecurity 🔒🕵️   
