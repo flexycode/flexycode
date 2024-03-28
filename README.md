@@ -1,6 +1,7 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flexycode.flexycode" />
 
-<h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1> 
+<h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1>  
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=𒅒💙🧊💎💎+🇫+🇱+🇪+ㄨ+🇾+🇨+🇴+𝕯+🇪+💎💎🧊💙𒅒" alt="Typing SVG" /></a></h3> 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=🥴😗😜🥰😵‍💫🤐🤡🤣😴🤬😜😎🤔😲😨😉😘🐱👽" alt="Typing SVG" /></a></h3>
@@ -10,7 +11,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
 </p>    
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">   
 
 
 # 💫 About Me: 
@@ -27,7 +28,7 @@
 
 🌐 Kindly visit my other GitHub profile for more content related to blockchain development<br>
 📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br>  
-
+## [Introduction](#introduction)
 <div style="display: flex; justify-content: space-between;">
 <img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/Sr4D0JYXItF1C/giphy.gif?cid=ecf05e47g9fxd637tsvrne6enbfvgf08vl6abgg2vmjhhsg3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
@@ -63,7 +64,7 @@
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
-<a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
+<a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a> 
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
 <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a> 
@@ -233,7 +234,7 @@
 # 📈 GitHub Contribution:
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest) 
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
@@ -339,6 +340,8 @@ accuracy = accuracy_score(y_test, predictions)
 ### 🔑🔐 Cryptography and Cybersecurity 🔒🕵️   
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
+
+#### [Back to Table of Content](#introduction)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=flexyledger&icon=0&color=0)](https://visitcount.itsvg.in)
