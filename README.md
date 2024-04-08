@@ -49,8 +49,9 @@
 </div>
 
 <br>
-⚡Fun fact : I'm good at learning new things and adapting easily, <br>
-⚡Fun fact : I love Final Fantasy, Science Fiction, Biology, Mutants and Galaxy Adventure  <br>
+⚡Fun fact : I'm good at learning new things and adapting easily <br>
+⚡Fun fact : I always read documentation everyday before I begin to code <br>
+⚡Fun fact : I love Final Fantasy, Science Fiction, Biology, Architecture, Mutants and Galaxy Adventure <br>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️   
 
 ## 🌐 Socials:  
