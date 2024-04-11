@@ -268,7 +268,8 @@
 * 🤫 - smiley face can also use for indicator for running or stopping some container
 * ⛓️ - for linking
 * 💱 - using solidity, hardhat or crypto related function
-* 🧊 - blockchain 
+* 🧊 - blockchain
+* 🌐 - networking setting, YAML file 
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
