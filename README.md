@@ -264,9 +264,9 @@
 * 👷 - add manual run, repair
 * 🚑 - import or also commit
 * 🔨 - fix algorithm priority
-* 🚀 - add emojis
+* 🚀 - add emojis and style
 * 🤫 - smiley face can also use for indicator for running or stopping some container
-* ⛓️ - for linking
+* ⛓️ - for linking file or repo
 * 💱 - using solidity, hardhat or crypto related function
 * 🧊 - blockchain
 * 🌐 - networking setting, YAML file 
