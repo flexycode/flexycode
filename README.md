@@ -271,9 +271,9 @@
 * 💱 - using solidity, hardhat or crypto related function
 * 🧊 - blockchain
 * 🌐 - networking setting, YAML file
+* 📋 - List of Content
 
 ## Some Programming Language & Technologies Icons for Commiting message
-📋 List of Content:
 
 🖨️ Technologies Icons :
 
