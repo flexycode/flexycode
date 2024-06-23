@@ -277,19 +277,22 @@
 
 - ➡️ 🖨️ Technologies Icons :
 
-* ➡️ 🚍 Communication         &nbsp;&nbsp;&nbsp;➡️ 🧮 Fortran
-* ➡️ 🧰 Version Control       &nbsp;&nbsp;&nbsp;➡️ ☎️ Erlang/Elixir
-* ➡️ 🔨 Tools                 &nbsp;&nbsp;&nbsp;➡️ 🧪 Testing
-* ➡️ 🌐 Web Dev               &nbsp;&nbsp;&nbsp;➡️ 📱 Mobile Dev
-* ➡️ 📜 JavaScript            &nbsp;&nbsp;&nbsp;➡️ ✨ UI/UX
-* ➡️ ☕ Java                  &nbsp;&nbsp;&nbsp;➡️ 🧊 Apache
-* ➡️ ©️ C/C++                 &nbsp;&nbsp;&nbsp;➡️ 🎮 Game Development
-* ➡️ 🪒 C#                    &nbsp;&nbsp;&nbsp;➡️ 🔬 Analytics
-* ➡️ 🐍 Python                &nbsp;&nbsp;&nbsp;➡️ 🤖 AI
-* ➡️ 🐘 PHP                   &nbsp;&nbsp;&nbsp;➡️ 💾 Database
-* ➡️ 💎 Ruby                  &nbsp;&nbsp;&nbsp;➡️ ☁️ Cloud
-* ➡️ 🦾 Rust                  &nbsp;&nbsp;&nbsp;➡️ 🖥️ Operating system
-* ➡️ 🐿️ Go                    &nbsp;&nbsp;&nbsp;➡️ 🤿 DevOps
+| Column 1            | Column 2          |
+| ------------------- | ----------------- |
+| ➡️ 🚍 Communication  | ➡️ 🧮 Fortran     |
+| ➡️ 🧰 Version Control | ➡️ ☎️ Erlang/Elixir |
+| ➡️ 🔨 Tools          | ➡️ 🧪 Testing      |
+| ➡️ 🌐 Web Dev        | ➡️ 📱 Mobile Dev   |
+| ➡️ 📜 JavaScript     | ➡️ ✨ UI/UX        |
+| ➡️ ☕ Java           | ➡️ 🧊 Apache       |
+| ➡️ ©️ C/C++          | ➡️ 🎮 Game Development |
+| ➡️ 🪒 C#             | ➡️ 🔬 Analytics    |
+| ➡️ 🐍 Python         | ➡️ 🤖 AI           |
+| ➡️ 🐘 PHP            | ➡️ 💾 Database     |
+| ➡️ 💎 Ruby           | ➡️ ☁️ Cloud        |
+| ➡️ 🦾 Rust           | ➡️ 🖥️ Operating system |
+| ➡️ 🐿️ Go             | ➡️ 🤿 DevOps      |
+
   
 * ➡️ 🍼 How to use this icons?
 * ➡️ 🚶 Contribution
