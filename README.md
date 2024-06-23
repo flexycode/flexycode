@@ -270,7 +270,41 @@
 * ⛓️ - for linking file or repo
 * 💱 - using solidity, hardhat or crypto related function
 * 🧊 - blockchain
-* 🌐 - networking setting, YAML file 
+* 🌐 - networking setting, YAML file
+
+## Some Programming Language & Technologies Icons for Commiting message
+📋 List of Content:
+➡️ 🖨️ Technologies Icons :
+
+➡️ 🚍 Communication
+➡️ 🧰 Version Control
+➡️ 🔨 Tools
+➡️ 🌐 Web Dev
+➡️ ✨ UI/UX
+➡️ 📜 JavaScript
+➡️ ☕ Java
+➡️ ©️ C/C++
+➡️ 🪒 C#
+➡️ 🐍 Python
+➡️ 🐘 php
+➡️ 💎 Ruby
+➡️ 🦾 Rust
+➡️ 🧮 Fortran
+➡️ 🐿️ Go
+➡️ ☎️ Erlang/Elixir
+➡️ 🧊 Apache
+➡️ 📱 Mobile Dev
+➡️ 💾 Database
+➡️ 🤿 DevOps
+➡️ ☁️ Cloud
+➡️ 🤖 AI
+➡️ 🔬 Analytics
+➡️ 🧪 Testing
+➡️ 🎮 Game Development
+➡️ 🖥️ Operating system
+
+➡️ 🍼 How to use this icons?
+➡️ 🚶 Contribution
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
