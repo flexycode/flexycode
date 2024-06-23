@@ -274,37 +274,25 @@
 
 ## Some Programming Language & Technologies Icons for Commiting message
 📋 List of Content:
-➡️ 🖨️ Technologies Icons :
 
-➡️ 🚍 Communication
-➡️ 🧰 Version Control
-➡️ 🔨 Tools
-➡️ 🌐 Web Dev
-➡️ ✨ UI/UX
-➡️ 📜 JavaScript
-➡️ ☕ Java
-➡️ ©️ C/C++
-➡️ 🪒 C#
-➡️ 🐍 Python
-➡️ 🐘 php
-➡️ 💎 Ruby
-➡️ 🦾 Rust
-➡️ 🧮 Fortran
-➡️ 🐿️ Go
-➡️ ☎️ Erlang/Elixir
-➡️ 🧊 Apache
-➡️ 📱 Mobile Dev
-➡️ 💾 Database
-➡️ 🤿 DevOps
-➡️ ☁️ Cloud
-➡️ 🤖 AI
-➡️ 🔬 Analytics
-➡️ 🧪 Testing
-➡️ 🎮 Game Development
-➡️ 🖥️ Operating system
+- ➡️ 🖨️ Technologies Icons :
 
-➡️ 🍼 How to use this icons?
-➡️ 🚶 Contribution
+* ➡️ 🚍 Communication     -------             ➡️ 🧮 Fortran
+* ➡️ 🧰 Version Control   -------             ➡️ ☎️ Erlang/Elixir
+* ➡️ 🔨 Tools             -------             ➡️ 🧪 Testing
+* ➡️ 🌐 Web Dev           -------             ➡️ 📱 Mobile Dev            
+* ➡️ 📜 JavaScript        -------             ➡️ ✨ UI/UX
+* ➡️ ☕ Java              -------             ➡️ 🧊 Apache
+* ➡️  ©️ C/C++             -------             ➡️ 🎮 Game Development
+* ➡️ 🪒 C#                -------             ➡️ 🔬 Analytics         
+* ➡️ 🐍 Python            -------             ➡️ 🤖 AI
+* ➡️ 🐘 php               -------             ➡️ 💾 Database
+* ➡️ 💎 Ruby              -------            ➡️ ☁️ Cloud 
+* ➡️ 🦾 Rust              -------            ➡️ 🖥️ Operating system
+* ➡️ 🐿️ Go                -------            ➡️ 🤿 DevOps
+  
+* ➡️ 🍼 How to use this icons?
+* ➡️ 🚶 Contribution
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
