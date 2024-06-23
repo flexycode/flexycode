@@ -275,9 +275,9 @@
 ## Some Programming Language & Technologies Icons for Commiting message
 📋 List of Content:
 
-- ➡️ 🖨️ Technologies Icons :
+🖨️ Technologies Icons :
 
-| Column 1            | Column 2          |
+| Flexycode            | Flexyledger          |
 | ------------------- | ----------------- |
 | ➡️ 🚍 Communication  | ➡️ 🧮 Fortran     |
 | ➡️ 🧰 Version Control | ➡️ ☎️ Erlang/Elixir |
@@ -292,10 +292,8 @@
 | ➡️ 💎 Ruby           | ➡️ ☁️ Cloud        |
 | ➡️ 🦾 Rust           | ➡️ 🖥️ Operating system |
 | ➡️ 🐿️ Go             | ➡️ 🤿 DevOps      |
+| ➡️ 🍼 How to use this icons?             | ➡️ 🚶 Contribution    |
 
-  
-* ➡️ 🍼 How to use this icons?
-* ➡️ 🚶 Contribution
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
