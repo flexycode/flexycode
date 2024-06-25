@@ -1,7 +1,8 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flexycode.flexycode" />
-
-<h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1>  
+<img src="https://github.com/flexycode/flexycode/blob/main/assets/programming-technologies.png" />
+<h1 align="center">
+Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://dev.to/flexycode/" target="_blank" rel="noreferrer">Jay</a>
+</h1>
+ 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=𒅒💙🧊💎💎+🇫+🇱+🇪+ㄨ+🇾+🇨+🇴+𝕯+🇪+💎💎🧊💙𒅒" alt="Typing SVG" /></a></h3> 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=🥴😗😜🥰😵‍💫🤐🤡🤣😴🤬😜😎🤔😲😨😉😘🐱👽" alt="Typing SVG" /></a></h3>
