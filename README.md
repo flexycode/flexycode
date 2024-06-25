@@ -403,4 +403,8 @@ accuracy = accuracy_score(y_test, predictions)
 
 #### [Back to Table of Content](#introduction)
 ---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=flexyledger&icon=0&color=0)](https://visitcount.itsvg.in)
