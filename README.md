@@ -291,20 +291,23 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 
 ## Icons for Commiting message
-* ♻️ - refactor getGithubUserContribution
-* ⬆️ - bump dependencies
-* ✨ - read contribution calendar from github api or remove some attributes
-* 📓 - commit or add readme
-* 👷 - add manual run, repair
-* 🚑 - import or also commit
-* 🔨 - fix algorithm priority
-* 🚀 - add emojis and style
-* 🤫 - smiley face can also use for indicator for running or stopping some container
-* ⛓️ - for linking file or repo
-* 💱 - using solidity, hardhat or crypto related function
-* 🧊 - blockchain
-* 🌐 - networking setting, YAML file
-* 📋 - List of Content
+
+| Icons             | 
+| ------------------- | 
+| ♻️ - refactor getGithubUserContribution | 
+| ✨ - read contribution calendar from github api or remove some attributes | 
+| 📓 - commit or add readme | 
+| 👷 - add manual run, repair | 
+| 🚑 - import or also commit | 
+| 🔨 - fix algorithm priority | 
+| 🚀 - add emojis and style | 
+| 🤫 - smiley face can also use for indicator for running or stopping some container | 
+| ⛓️ - for linking file or repo | 
+| 💱 - using solidity, hardhat or crypto related function | 
+| 🧊 - blockchain | 
+| 🌐 - networking setting, YAML file | 
+| 📋 - List of Content | 
+
 
 ## Some Programming Language & Technologies Icons for Commiting message
 
