@@ -38,7 +38,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 🤝 I’m looking for help to work with Cloud Computing, Artificial Intelligence, Machine Learning, and Blockchain Development<br>
 🤝 I would love to level-up my knowledge in BioInformatics, Cyber Security, Quantum Computing, Robotic Process Automation <br>
 🌱 I’m currently learning more about Rust, Java and other Blockchain EVM<br>
-💬 Ask me about Artificial Intelligence and Machine Learning <br> 
+💬 Ask me about Artificial Intelligence and Machine Learning<br>
+🎮 I'm a Dallas Mavericks fan since 2011, guess my idol 🤫
+<br> 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 🌐 Kindly visit my other GitHub profile for more content related to blockchain development<br>
