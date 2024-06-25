@@ -2,7 +2,26 @@
 <h1 align="center">
 Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://dev.to/flexycode/" target="_blank" rel="noreferrer">Jay</a>
 </h1>
- 
+
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I+~+I'm+a+Machine+Learning+Engineer+~+!" alt="Typing SVG" /></a>
+</h3> 
+
+<i class="fab fa-pinterest"></i>
+
+<p align="center">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/flexycode?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/twitter/follow/flexycode?logo=twitter&style=for-the-badge" <a href="https://dev.to/flexycode/ alt="ThrippleK" />
+<img src="https://komarev.com/ghpvc/?username=flexycode&color=blue&style=for-the-badge" alt="ThrippleK" />
+</p>
+
+<div align="center">
+<a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
+<br>
+
+
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=𒅒💙🧊💎💎+🇫+🇱+🇪+ㄨ+🇾+🇨+🇴+𝕯+🇪+💎💎🧊💙𒅒" alt="Typing SVG" /></a></h3> 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=🥴😗😜🥰😵‍💫🤐🤡🤣😴🤬😜😎🤔😲😨😉😘🐱👽" alt="Typing SVG" /></a></h3>
