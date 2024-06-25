@@ -82,16 +82,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">   
 
 <div align="center">
-<h2>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
+<h1>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h1>
 <a href="https://www.linkedin.com/in/flexycode/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
 <a href="https://www.instagram.com/lukadoncic/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
 <a href="https://web.facebook.com/AlphaOmegaCSDev" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
+<a href="https://www.x.com/flexyledger" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70"></a>
 </div>
 
-## 🌐 Socials:  
-
-# Main Skills
 <div align="center">
 <h1>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h1>
 
@@ -284,7 +281,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 ![snake gif](https://github.com/flexycode/flexycode/blob/output/github-contribution-grid-snake-dark.svg)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-# <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2>: 
+# <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 ![](https://github-readme-stats.vercel.app/api?username=flexycode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flexycode&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flexycode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -292,6 +289,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=flexycode&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
+
 ## Icons for Commiting message
 * ♻️ - refactor getGithubUserContribution
 * ⬆️ - bump dependencies
