@@ -21,6 +21,14 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
+<div align="center">
+<img width="200" height="200" src="https://media.giphy.com/media/keMDJAGEUIQJhIKTfB/giphy.gif?cid=790b7611bj659wyrpz77hnz5x0j184qbn5m9vba26rw5br8y&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo2NTl3eXJwejc3aG56NXgwajE4NHFibjVtOXZiYTI2cnc1YnI4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4tmo6unuDVb6OyNGhl/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/8hg1m9qS3QVnJbv9Ar/giphy.gif?cid=790b7611bj659wyrpz77hnz5x0j184qbn5m9vba26rw5br8y&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo2NTl3eXJwejc3aG56NXgwajE4NHFibjVtOXZiYTI2cnc1YnI4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sURKwSjPkraF8prH5J/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/l4Ep5RB1RexGoLao0/giphy.gif?cid=ecf05e47b0u9a60h1qxubzuzdnl20mqobyr2fdsd02o46qut&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
+
+<br>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=𒅒💙🧊💎💎+🇫+🇱+🇪+ㄨ+🇾+🇨+🇴+𝕯+🇪+💎💎🧊💙𒅒" alt="Typing SVG" /></a></h3> 
