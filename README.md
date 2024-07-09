@@ -25,6 +25,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
+<!-- Background github GIF with 3 Luka Doncic down below -->
 <div align="center">
 <img width="200" height="200" src="https://media.giphy.com/media/keMDJAGEUIQJhIKTfB/giphy.gif?cid=790b7611bj659wyrpz77hnz5x0j184qbn5m9vba26rw5br8y&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo2NTl3eXJwejc3aG56NXgwajE4NHFibjVtOXZiYTI2cnc1YnI4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4tmo6unuDVb6OyNGhl/giphy.gif" width="300">
@@ -34,6 +35,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
+<!-- Continuously text animation with short introduction down below -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=𒅒💙🧊💎💎+🇫+🇱+🇪+ㄨ+🇾+🇨+🇴+𝕯+🇪+💎💎🧊💙𒅒" alt="Typing SVG" /></a></h3> 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=🥴😗😜🥰😵‍💫🤐🤡🤣😴🤬😜😎🤔😲😨😉😘🐱👽" alt="Typing SVG" /></a></h3>
@@ -43,6 +45,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
 </p>    
 </div>
+<!-- End point insert background effect line of sight color red -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
 
 # 💫 About Me: 
@@ -55,10 +58,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 🎮 I'm a Dallas Mavericks fan since 2011, guess my idol 🤫
 <br> 
 
+<!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<!-- Link for Other GitHub account and Email Address -->
 🌐 Kindly visit my other GitHub profile: [flexyledger](https://github.com/flexyledger) for more content related to blockchain development<br>
-📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br>  
+📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br>
+<!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## [Introduction](#introduction)
