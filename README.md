@@ -67,6 +67,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<!-- Introduction with Final Fantasy GIF down below -->
 ## [Introduction](#introduction)
 <div style="display: flex; justify-content: space-between;">
 <img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
@@ -86,12 +87,15 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 
 </div>
+<!-- End point insert background effect line of sight color red. Three fun fact description down below -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 ⚡Fun fact : I'm good at learning new things and adapting easily <br>
 ⚡Fun fact : I always read documentation everyday before I begin to code <br>
 ⚡Fun fact : I love Final Fantasy, Science Fiction, Biology, Architecture, Mutants and Galaxy Adventure <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">   
+<!-- End point insert background effect line of sight color red -->
 
+<!-- Fade-in / Fade-out effect pannel button for Linkedin, Instagram, Facebook and Twitter -->
 <div align="center">
 <h1>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h1>
 <a href="https://www.linkedin.com/in/flexycode/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
@@ -99,7 +103,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://web.facebook.com/AlphaOmegaCSDev" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
 <a href="https://www.x.com/flexyledger" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70"></a>
 </div>
-
+<!-- Language and Tools, feel free to revise.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
 <div align="center">
 <h1>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h1>
 
@@ -119,7 +124,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://docs.github.com/en"><img src="./assets/GitHub-Logo.svg" alt="Github" height="100" title="GitHub documentation"></a>
 <a href="https://www.linuxfoundation.org"><img src="./assets/Linux-Logo.svg" alt="linux" height="100" title="Linux"></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="./assets/Bash_Unix_shell-Logo.svg" alt="bash" height="100" title="Bash"></a>
-
+<!-- Language and Tools, feel free to revise.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
 ## 💻 My favorite tools and technologies for Full Stack Devevelopment
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -246,7 +252,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 </div>
 
 <p align="center">
-
+<!-- Language and Tools for Blockchain Development.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
+   
 ## 💻 My tools and technologies for Blockchain Devevelopment
 <a href="https://ethereum.org/en"><img src="./assets/Ethereum.svg" alt="ethereum" height="100" title="Ethereum documentation"></a>
 <a href="https://ethereum.org/en"><img src="./assets/Ethereum_Classic-Logo.svg" alt="ethereum-classic" height="100" title="Ethereum Classic documentation"></a>
@@ -258,25 +266,36 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://ubuntu.com/"><img src="./assets/ubuntu.svg" alt="ubuntu" height="100" title="Ubuntu"></a>
 <a href="https://remix.ethereum.org/"><img src="./assets/Remix.png" alt="remix" height="100" title="Remix IDE"></a>
 <a href="https://hardhat.org/"><img src="./assets/HardHat.png" alt="hardhat" height="100" title="Hardhat EVM"></a>
-
+   
+<!-- Language and Tools for AI and ML Development.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
 ## 💻 My tools and technologies for AI and ML Devevelopment
+
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a> 
 <a href="https://www.r-project.org"><img src="./assets/R_programming_language-Logo.svg" alt="R" height="100" title="R documentation"></a>
 <a href="https://julialang.org"><img src="./assets/Julia_programming_language-Logo.svg" alt="Julia" height="100" title="Julia documentation"></a> 
 <a href="https://colab.research.google.com/"><img src="./assets/Google_Colaboratory.svg" alt="colab" height="100" title="Google Collab"></a>
 <a href="https://devdocs.io/lua~5.4/index#3.4.4"><img src="./assets/Lua.svg" alt="lua" height="100" title="Lua"></a>
-<a href="https://huggingface.co/"><img src="./assets/hugging-face.svg" alt="huggingface" height="100" title="HuggingFace"></a> 
-
+<a href="https://huggingface.co/"><img src="./assets/hugging-face.svg" alt="huggingface" height="100" title="HuggingFace"></a>
+   
+<!-- Language and Tools for Game Development, Architecture and Visualization.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
 ## 💻 My tools and technologies for Game Devevelopment, Architecture and Visualization
+   
 <a href="https://devdocs.io/cpp"><img src="./assets/C++-Logo.svg" alt="C++" height="100" title="C++ documentation"></a>
 <a href="https://devdocs.io/lua~5.4/index#3.4.4"><img src="./assets/Lua.svg" alt="lua" height="100" title="Lua"></a> 
 <a href="https://www.autodesk.com"><img src="./assets/Autodesk-Logo.svg" alt="autocad" height="100" title="Autodesk Autocadd"></a> 
 <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35"><img src="./assets/DirectX-Logo.svg" alt="directX" height="100" title="Direct X documentation"></a> 
 <a href="https://www.unrealengine.com/en-US"><img src="./assets/Unreal_Engine-Logo.svg" alt="unreal-engine" height="100" title="Unreal Engine"></a>
 
+<!-- Language and Tools for Some Technology Stacks that I use before.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
+   
 ## 💻 Some Technology Stacks that I used:
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)                   
 
+<!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 # 📈 GitHub Contribution:
