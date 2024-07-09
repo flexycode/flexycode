@@ -315,10 +315,13 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 ![](https://github-readme-stats.vercel.app/api?username=flexycode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flexycode&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flexycode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
+<!-- End point insert background infinite line of sight color blue -->
+
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=flexycode&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
+<!-- End point insert background infinite line of sight color blue -->
 
 ## Icons for Commiting message
 
@@ -365,11 +368,14 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
+<!-- End point insert background infinite line of sight color blue -->
 ### 🧠🧠 Artificial Intelligence 🛸🛸
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://starfertility.life/category_images/blog495520.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 <br>
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
+<!-- End point insert background infinite line of sight color blue -->
+
 
 ```bash 
 # Import the necessary libraries for AI
@@ -391,15 +397,17 @@ model.fit(X_train, y_train, epochs=10, batch_size=32)  
 predictions = model.predict(X_test) 
 
 ``` 
-
+<!-- End point insert background infinite line of sight color blue -->
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 ### 🌐⛓️ Blockchain Technology 💱🧊  
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/124059/screenshots/4638407/shot.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
-
+<!-- End point insert background infinite line of sight color blue -->
 ### 🤖🦾 Machine Learning 📈💡
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
+<!-- End point insert background infinite line of sight color blue -->
+
 
 ``` bash 
 # Import the necessary libraries for ML
@@ -428,19 +436,22 @@ predictions = model.predict(X_test)
 accuracy = accuracy_score(y_test, predictions)
 
 ```
-
+<!-- End point insert background infinite line of sight color blue -->
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
-
+<!-- Cryptography and Cybersecurity -->
 ### 🔑🔐 Cryptography and Cybersecurity 🔒🕵️   
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
-
+<!-- End point insert background infinite line of sight color blue -->
+<!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#introduction)
 ---
+<!-- Intro point insert background text style line "Thanks for visiting enjoy your day! -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
 </p>
+<!-- Link for Discord Channel and  -->
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/flexyledger#5660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flexyledger)
 
@@ -449,3 +460,4 @@ accuracy = accuracy_score(y_test, predictions)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time+~!;" alt="mystreak"/>
 </p>
+<!-- End point insert background text style line "Come back again next time! -->
