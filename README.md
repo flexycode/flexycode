@@ -67,7 +67,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- Introduction with Final Fantasy GIF down below -->
+<!-- Introduction with Final Fantasy GIF table style down below -->
 ## [Introduction](#introduction)
 <div style="display: flex; justify-content: space-between;">
 <img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
@@ -298,6 +298,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<!-- GitHuB contributions such as GitHuB Workflow Status, GitHub release, GitHub marketplace, Github contribution graph, GitHub Trophies, GitHub Snake Animation Workflow -->
 # 📈 GitHub Contribution:
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
@@ -322,7 +323,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 ![](https://github-profile-trophy.vercel.app/?username=flexycode&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 <!-- End point insert background infinite line of sight color blue -->
-
+<!-- Icons for Commiting message -->
 ## Icons for Commiting message
 
 | Icons             | 
@@ -341,7 +342,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 | 🌐 - networking setting, YAML file | 
 | 📋 - List of Content | 
 
-
+<!-- Icons for Commiting message -->
 ## Some Programming Language & Technologies Icons for Commiting message
 
 🖨️ Technologies Icons :
@@ -376,7 +377,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 <!-- End point insert background infinite line of sight color blue -->
 
-
+<!-- Sample Code for libraries for Artificial Intelligence -->
 ```bash 
 # Import the necessary libraries for AI
 import numpy as np
@@ -402,13 +403,15 @@ predictions = model.predict(X_test) 
 ### 🌐⛓️ Blockchain Technology 💱🧊  
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/124059/screenshots/4638407/shot.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
+
 <!-- End point insert background infinite line of sight color blue -->
 ### 🤖🦾 Machine Learning 📈💡
+
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 <!-- End point insert background infinite line of sight color blue -->
 
-
+<!-- Sample Code for libraries for Machine Learning -->
 ``` bash 
 # Import the necessary libraries for ML
 import numpy as np
@@ -444,6 +447,8 @@ accuracy = accuracy_score(y_test, predictions)
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
 <!-- End point insert background infinite line of sight color blue -->
+
+
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#introduction)
 ---
