@@ -52,7 +52,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <br> 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-🌐 Kindly visit my other GitHub profile for more content related to blockchain development<br>
+
+🌐 Kindly visit my other GitHub profile: [flexyledger](https://github.com/flexyledger) for more content related to blockchain development<br>
 📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com, flexyledger@gmail.com<br>  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
