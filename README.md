@@ -317,7 +317,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 
 ![Flexycode GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=flexycode&theme=merko&border=false)<br/>
 <!-- For more theme color visit this link https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-![Flexycode GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flexycode&langs_count=12&theme=ambient_gradient&border=false&include_all_commits=true&count_private=true&layout=compact) 
+![Flexycode GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flexycode&langs_count=11&theme=ambient_gradient&border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <!-- Edit Next time Harloks WakaTime 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flexycode)](https://github.com/anuraghazra/github-readme-stats)
