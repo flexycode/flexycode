@@ -49,11 +49,17 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
 
 # 💫 About Me: 
-🔭 I’m currently studying on Artificial Intelligence,Machine Learning, Quantum Technology and Biology<br>
+🔭 I’m currently studying on Artificial Intelligence, Machine Learning, Quantum Technology and Biology<br>
 👯 I’m looking to collaborate on any Data Science, LLM and Web3 projects<br>
 🤝 I’m looking for help to work with Cloud Computing, Artificial Intelligence, Machine Learning, and Blockchain Development<br>
 🤝 I would love to level-up my knowledge in BioInformatics, Cyber Security, Quantum Computing, Robotic Process Automation <br>
-🌱 I’m currently learning more about Rust, Java and other Blockchain EVM<br>
+🌱 I’m currently learning more about Rust, Go, Consensus Algorithm of Blockchain Technology and other Blockchain EVM<br>
+🦾 Programming: I'm currently learning more on programming languages such as Python, R, Java & C++ so I can build and implement models.<br>
+📈 Probability, statistics, and linear algebra: These are my math buddy needed to implement different AI and machine learning models.<br>
+🧊 Big data technologies: AI engineers work with large amounts of data, so I’ll be required to know Apache Spark, Hadoop, and MongoDB.<br>
+🤖 Algorithms & frameworks: I'm currently self studying some machine learning algorithms such as linear regression and Naive Bayes,<br> 
+🤖 as well as deep learning algorithms such as recurrent neural networks and generative adversarial networks, and be able to implement<br>
+🤖 them with a framework. Common AI frameworks include Theano, TensorFlow, Caffe, Keras, and PyTorch.<br>
 💬 Ask me about Artificial Intelligence and Machine Learning<br>
 🎮 I'm a Dallas Mavericks fan since 2011, guess my idol 🤫
 <br> 
