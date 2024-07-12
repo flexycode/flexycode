@@ -64,6 +64,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 🎮 I'm a Dallas Mavericks fan since 2011, guess my idol 🤫
 <br> 
 
+<!-- Background github GIF with 3 AI down below -->
+<div align="center">
+<img width="200" height="200" src="https://media.giphy.com/media/IpWc9hCbbAPvhRX1Je/giphy.gif?cid=ecf05e47l92llfgrnic3xkuuikcz79dovpxf8kct62zgne2s&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif?cid=790b7611x9wuybnjbc8r7t0j19soxniffnd8umldnwifwa9z&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/wCDW0yf9gf77c9vIVZ/giphy.gif?cid=ecf05e47l8fotnljmwdscwojou1kfg5qhy65e3lci0wiq8r2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+
+</div>
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
