@@ -337,6 +337,8 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 ![snake gif](https://github.com/flexycode/flexycode/blob/output/github-contribution-grid-snake-dark.svg)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<a href="https://github.com/flexycode"><img src="https://github-readme-activity-graph.vercel.app/graph?username=flexycode&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
+
 # <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2>
 ![Flexycode GitHub stats](https://github-readme-stats.vercel.app/api?username=flexycode&show_icons=true&theme=ambient_gradient)<br/>
 
