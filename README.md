@@ -361,7 +361,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=flexycode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=flexycode&theme=radical)
 
 
 ## 🏆 GitHub Repository
