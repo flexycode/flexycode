@@ -359,13 +359,22 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 <!-- End point insert background infinite line of sight color blue -->
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=flexycode&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=flexycode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🏆 GitHub Repository
 
+<!-- Background github GIF with 1 GIF down below -->
+<div align="center">
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc285cTNid2E0bDJ4ZzhudWhyd3VwajZicGt1eTU4Zzk1ZmxsaTZrMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y01wot3Bt9Bpdz8xvs/giphy.gif" style="margin-right: 20px;" />
+
+<!-- End point insert background infinite line of sight color blue 
+
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=flexycode/MLAlgorithms&theme=ambient_gradient)](https://gist.github.com/flexycode/MLAlgorithms/)
+
+-->
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 <!-- End point insert background infinite line of sight color blue -->
 <!-- Icons for Commiting message -->
