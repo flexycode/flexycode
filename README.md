@@ -23,6 +23,14 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
+<!-- Coffee GIF -->
+<div align="center">
+<img width="200" height="200" src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif?cid=ecf05e477msbxbsg2s2m2rlbro0u4tz1i1icm1t4vug8mqne&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+</div>
+
+```
+💎 Hello there! I'm thrilled to have you visit my GitHub profile. Here, you'll find a collection of my projects, contributions, and explorations in the world of software development 💎
+```
 <br>
 
 <!-- Background github GIF with 3 Luka Doncic down below -->
