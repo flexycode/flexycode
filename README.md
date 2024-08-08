@@ -554,5 +554,6 @@ accuracy = accuracy_score(y_test, predictions)
 <div style="display: flex; justify-content: space-between;">
 <img width="300" height="300" src="https://media.giphy.com/media/cwHPSWu6Lp5HqXPWGh/giphy.gif?cid=790b7611deqtzfyk8x8rvpldmuwhoxq8oasbfvcbt8vxtyf3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="300" height="300" src="https://media.giphy.com/media/BUha2T1ddtIw8J4nVG/giphy.gif?cid=790b7611deqtzfyk8x8rvpldmuwhoxq8oasbfvcbt8vxtyf3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="600" height="300" src="https://media.giphy.com/media/kHlLdUk50a3AKXM9v1/giphy.gif?cid=ecf05e47lr6sqq949mgk7a2l2sfn2y4um9w4tuy5lmhz99ev&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 
