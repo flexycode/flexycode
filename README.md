@@ -532,7 +532,7 @@ accuracy = accuracy_score(y_test, predictions)
 ---
 <!-- Intro point insert background text style line "Thanks for visiting enjoy your day! -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=So+let's+pretend+a+little+longer;" alt="mystreak"/>
 </p>
 <!-- Link for Discord Channel and  -->
 
@@ -540,7 +540,19 @@ accuracy = accuracy_score(y_test, predictions)
 
 [![](https://visitcount.itsvg.in/api?id=flexyledger&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- League of Legends Star Guardian -->
+<div style="display: flex; justify-content: space-between;">
+<img width="300" height="300" src="https://media.giphy.com/media/Zpi1mqxsveyvBeTemT/giphy.gif?cid=ecf05e47lnfdxuachqbk1j3vb9c3k1z10zrxfe170f17amrz&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time+~!;" alt="mystreak"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=💎+💎+Cause+when+we're+gone+💎+💎" alt="mystreak"/>
+</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=💎+💎+💎+Everything+goes+on+💎+💎+💎" alt="mystreak"/>
 </p>
 <!-- End point insert background text style line "Come back again next time! -->
+
+<div style="display: flex; justify-content: space-between;">
+<img width="300" height="300" src="https://media.giphy.com/media/cwHPSWu6Lp5HqXPWGh/giphy.gif?cid=790b7611deqtzfyk8x8rvpldmuwhoxq8oasbfvcbt8vxtyf3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="300" height="300" src="https://media.giphy.com/media/BUha2T1ddtIw8J4nVG/giphy.gif?cid=790b7611deqtzfyk8x8rvpldmuwhoxq8oasbfvcbt8vxtyf3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+
+
