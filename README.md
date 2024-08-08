@@ -63,6 +63,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 # 💫 About Me: 
 🔭 I’m currently studying on Artificial Intelligence, Machine Learning, Quantum Technology and Biology<br>
+📓 I am currently a second-year student pursuing a BS in Computer Science with a specialization in Machine Learning at National University.<br>
 👯 I’m looking to collaborate on any Data Science, LLM and Web3 projects<br>
 🤝 I’m looking for help to work with Cloud Computing, Artificial Intelligence, Machine Learning, and Blockchain Development<br>
 🤝 I would love to level-up my knowledge in BioInformatics, Cyber Security, Quantum Computing, Robotic Process Automation <br>
