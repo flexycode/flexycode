@@ -1,5 +1,5 @@
 <!-- Background github cover with short introduction down below -->
-<img src="https://github.com/flexycode/flexycode/blob/main/assets/programming-technologies.png" />
+<img src="https://github.com/flexycode/flexycode/blob/main/assets/ragnarok-online.png" />
 <h1 align="center">
 Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://dev.to/flexycode/" target="_blank" rel="noreferrer">Jay</a>
 </h1>
