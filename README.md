@@ -472,7 +472,13 @@ model.fit(X_train, y_train, epochs=10, batch_size=32)  
 # Use the AI model for predictions
 predictions = model.predict(X_test) 
 
-``` 
+```
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+<!-- Background for Artificial Intelligence github cover with short introduction down below -->
+<img src="https://github.com/flexycode/flexycode/blob/main/portfolio/image portfolio-3.jpeg" />
+
 <!-- End point insert background infinite line of sight color blue -->
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 ### 🌐⛓️ Blockchain Technology 💱🧊  
@@ -530,15 +536,35 @@ predictions = model.predict(X_test)
 accuracy = accuracy_score(y_test, predictions)
 
 ```
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+<!-- Background for Cryptography github cover with short introduction down below -->
+<img src="https://github.com/flexycode/flexycode/blob/main/portfolio/image portfolio-2.jpeg" />
+
 <!-- End point insert background infinite line of sight color blue -->
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
 <!-- Cryptography and Cybersecurity -->
 ### 🔑🔐 Cryptography and Cybersecurity 🔒🕵️   
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif"/>
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+<!-- Background for Cryptography github cover with short introduction down below -->
+<img src="https://github.com/flexycode/flexycode/blob/main/portfolio/image portfolio-4.jpeg" />
+
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
 <!-- End point insert background infinite line of sight color blue -->
 
+### 🌐🌐 Quantum Technology 🌐🌐 
+
+<!-- Background for Quantum Technology github cover with short introduction down below -->
+<img src="https://github.com/flexycode/flexycode/blob/main/portfolio/image portfolio-1.jpeg" />
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#introduction)
