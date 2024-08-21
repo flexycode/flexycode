@@ -449,10 +449,16 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://starfertility.life/category_images/blog495520.gif"/>
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 <br>
+
+<!-- Background for Artificial Intelligence github cover with short introduction down below -->
+<img src="https://github.com/flexycode/flexycode/blob/main/portfolio/image portfolio-5.png" />
+
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 <!-- End point insert background infinite line of sight color blue -->
 
+<div align="left">
 <!-- Sample Code for libraries for Artificial Intelligence -->
+   
 ```bash 
 # Import the necessary libraries for AI
 import numpy as np
@@ -473,6 +479,8 @@ model.fit(X_train, y_train, epochs=10, batch_size=32)  
 predictions = model.predict(X_test) 
 
 ```
+</div>
+
 <!-- End point insert background effect line of sight color rainbow -->
 <img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 
