@@ -78,6 +78,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 🤝 I’m looking for help to work with Cloud Computing, Artificial Intelligence, Machine Learning, and Blockchain Development<br>
 🤝 I would love to level-up my knowledge in BioInformatics, Cyber Security, Quantum Computing, Robotic Process Automation <br>
 🌱 I’m currently learning more about Rust, Go, Consensus Algorithm of Blockchain Technology and other Blockchain EVM<br>
+🌐 I’m also exploring some revolutionary technology such as Web 4.0, Generative AI, IoT, Cloud Computing and Augmented Reality<br>
 🦾 Programming: I'm currently learning more on programming languages such as Python, R, Java & C++ so I can build and implement models.<br>
 📈 Probability, statistics, and linear algebra: These are my math buddy needed to implement different AI and machine learning models.<br>
 🧊 Big data technologies: AI engineers work with large amounts of data, so I’ll be required to know Apache Spark, Hadoop, and MongoDB.<br>
