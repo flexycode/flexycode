@@ -143,8 +143,12 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img width="200" height="200" src="https://media.giphy.com/media/rMelA7MZWTeGoJCi0f/giphy.gif?cid=ecf05e4795me04z7e05e0fvmfigmr80ddvckbnow0gmypbdy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 <!-- Fade-in / Fade-out effect pannel button for Linkedin, Instagram, Facebook and Twitter -->
-<div align="center">
+<div align="center">   
 <h1>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h1>
+   <!-- JINX!!! -->
+<div align="center">
+<img src="https://media.giphy.com/media/CmB2hveWjtZxeAZBUk/giphy.gif?cid=790b7611u2dl4yhif96o9ocht0yi7sisr2zmfww7vor1eyks&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
 <a href="https://www.linkedin.com/in/flexycode/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
 <a href="https://www.instagram.com/lukadoncic/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
 <a href="https://web.facebook.com/AlphaOmegaCSDev" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
