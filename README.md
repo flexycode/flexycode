@@ -147,7 +147,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <h1>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h1>
    <!-- JINX!!! -->
 <div align="center">
-<img src="https://media.giphy.com/media/CmB2hveWjtZxeAZBUk/giphy.gif?cid=790b7611u2dl4yhif96o9ocht0yi7sisr2zmfww7vor1eyks&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnljZGk4bnQ0ZzU5czBlbnBwdXNkODkyc3kxYWt0MjN3OXczYjdoOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vpOAihpdzqlS20pLjh/giphy.gif" width="300">
 </div>
 <a href="https://www.linkedin.com/in/flexycode/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
 <a href="https://www.instagram.com/lukadoncic/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
