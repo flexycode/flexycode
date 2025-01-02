@@ -419,9 +419,16 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 | 🤫 - smiley face can also use for indicator for running or stopping some container | 
 | ⛓️ - for linking file or repo | 
 | 💱 - using solidity, hardhat or crypto related function | 
-| 🧊 - blockchain | 
+| 🧊 - Blockchain | 
 | 🌐 - networking setting, YAML file | 
 | 📋 - List of Content | 
+| 🔥 - Published Paper Link |
+| 👀 - Getting Started | 
+| 💻 - System Overview or Architecture Image | 
+| ⚡ - Our Solution |
+| ⏯️ - Explanation + Demo Video |
+| 💊 - Pharmaceutical | 
+| ![image](https://github.com/user-attachments/assets/024d9562-9e14-43bf-bae1-e1c71f9fc1e4) - GitHub Project Link | 
 
 <!-- Icons for Commiting message -->
 ## Some Programming Language & Technologies Icons for Commiting message
