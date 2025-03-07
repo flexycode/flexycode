@@ -428,6 +428,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 | ⚡ - Our Solution |
 | ⏯️ - Explanation + Demo Video |
 | 💊 - Pharmaceutical | 
+| 🔒 - LICENSE | 
 | ![image](https://github.com/user-attachments/assets/024d9562-9e14-43bf-bae1-e1c71f9fc1e4) - GitHub Project Link | 
 
 <!-- Icons for Commiting message -->
