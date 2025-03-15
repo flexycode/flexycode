@@ -454,6 +454,29 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 | ➡️ 🍼 How to use this icons?             | ➡️ 🚶 Contribution    |
 
 
+<!-- Icons for Commiting message -->
+## Some Programming Language & Technologies Icons for Commiting message
+
+🖨️ Development Icons :
+
+| Fullstack            | Blockchain          |
+| ------------------- | ----------------- |
+| ➡️ ⚡ Next.js 15     | ➡️ 🧩 Component Library |
+| ➡️ 🎨 Tailwind CSS   | ➡️ 🎮 AI Playground |
+| ➡️ 📘 TypeScript     | ➡️ 📊 Dashboard Template |
+| ➡️ 🔒 Authentication | ➡️ 🔍 SEO Optimized   |
+| ➡️ 🎭 Shadcn/ui      | ➡️ ✨ UI/UX        |
+| ➡️ 💾 Convex DB      | ➡️ 🎬 Custom Video Player |
+| ➡️ 💳 Polar.sh          | ➡️ 🎮 Game Development |
+| ➡️ 🚀 Route Prefetching | ➡️ 📝 Blog Support    |
+| ➡️ 🖼️ Optimized Images  | ➡️ 🔄 State Management |
+| ➡️ 🌓 Dark/Light Mode   | ➡️ 💾 Database     |
+| ➡️ 📱 Responsive Design | ➡️ ☁️ Cloud        |
+| ➡️ 💾 State Persistence | ➡️ 🌐 API Integration |
+| ➡️ 🔄 Real-time Updates | ➡️ 🤿 DevOps      |
+| ➡️ 🍼 How to use this icons? | ➡️ 🚶 Contribution    |
+
+
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
