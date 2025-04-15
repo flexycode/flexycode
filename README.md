@@ -50,7 +50,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
-<!-- Continuously text animation with short introduction down below -->
+<!-- Continuously text animation with short introduction down below 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=𒅒💙🧊💎💎+🇫+🇱+🇪+ㄨ+🇾+🇨+🇴+𝕯+🇪+💎💎🧊💙𒅒" alt="Typing SVG" /></a></h3> 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=🥴😗😜🥰😵‍💫🤐🤡🤣😴🤬😜😎🤔😲😨😉😘🐱👽" alt="Typing SVG" /></a></h3>
@@ -58,8 +58,10 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Artificial+Intelligence+Engineer" alt="Typing SVG" /></a>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Blockchain+Engineer" alt="Typing SVG" /></a>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
-</p>    
+</p>
+-->
 </div>
+
 <!-- End point insert background effect line of sight color rainbow 
 <img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000"> -->
 
@@ -635,11 +637,24 @@ accuracy = accuracy_score(y_test, predictions)
 <div style="display: flex; justify-content: space-between;">
 <img width="300" height="300" src="https://media.giphy.com/media/Zpi1mqxsveyvBeTemT/giphy.gif?cid=ecf05e47lnfdxuachqbk1j3vb9c3k1z10zrxfe170f17amrz&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 
+<!-- Intro point insert background text style line "Thanks for visiting enjoy your day! -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Cause+when+we're+gone+Everything;" alt="mystreak"/> 
+</p>
+
+<!-- Intro point insert background text style line "Thanks for visiting enjoy your day! -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=+goes+on+Everything+goes+on;" alt="mystreak"/> 
+</p>
+
+<!--
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=💎+💎+Cause+when+we're+gone+💎+💎" alt="mystreak"/>
 </p>
 <img src="https://readme-typing-svg.demolab.com/?lines=💎+💎+💎+Everything+goes+on+💎+💎+💎" alt="mystreak"/>
 </p>
+-->
+
 <!-- End point insert background text style line "Come back again next time! -->
 
 <div style="display: flex; justify-content: space-between;">
