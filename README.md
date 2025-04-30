@@ -43,9 +43,12 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhvamZsczMzcnAzZjBrbmVuY2g5bzdtNnBwY3U3bWJpaDZyNXEweiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2BG4UoTSZUrberPmKf/giphy.gif" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZnd3BxcWltanJ1Mnl2dm8yeWNsdHl4Mjc3bWJxZ2hvajltc2V3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RGy9eVrdRHLCo2915F/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/B7XhL8SbuY59QxVSy6/giphy.gif?cid=ecf05e47kys3cpjcdjwgietbyqtbkc75chr40glgd4n6e6wq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
 
 <br>
-<!-- Background Dalla Mavericks github cover with short introduction down below -->
+<!-- Background Dallas Mavericks github cover with short introduction down below -->
 <img src="https://github.com/flexycode/flexycode/blob/main/images/Dallas Mavericks Schedule-77.jpg" />
 
 <br>
@@ -629,7 +632,7 @@ accuracy = accuracy_score(y_test, predictions)
 </p>
 <!-- Link for Discord Channel and  -->
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/flexyledger#5660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flexyledger)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/flexyledger#5660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flexyledger) [![Substack](https://img.shields.io/badge/Substack-12100E?logo=substack&logoColor=orange)](https://substack.com/@flexycode)
 
 [![](https://visitcount.itsvg.in/api?id=flexyledger&icon=0&color=0)](https://visitcount.itsvg.in)
 
