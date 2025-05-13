@@ -48,8 +48,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://media.giphy.com/media/B7XhL8SbuY59QxVSy6/giphy.gif?cid=ecf05e47kys3cpjcdjwgietbyqtbkc75chr40glgd4n6e6wq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
 
 <br>
-<!-- Background Dallas Mavericks github cover with short introduction down below -->
-<img src="https://github.com/flexycode/flexycode/blob/main/images/Dallas Mavericks Schedule-77.jpg" />
+<!-- Background for Luka Doncic Schedule this year with short introduction down below -->
+<img src="https://github.com/flexycode/flexycode/blob/main/images/EuroBasket.png" />
 
 <br>
 
