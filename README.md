@@ -117,7 +117,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <!-- Introduction with Final Fantasy GIF table style down below -->
 ## [Introduction](#introduction)
-<img src="./images/1.Jay%20Arre%20Talosig.png" width="1000" />
+<!-- <img src="./images/1.Jay%20Arre%20Talosig.png" width="1000" /> -->
 <div style="display: flex; justify-content: space-between;">
 <img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/Sr4D0JYXItF1C/giphy.gif?cid=ecf05e47g9fxd637tsvrne6enbfvgf08vl6abgg2vmjhhsg3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
@@ -174,7 +174,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- Language and Tools, feel free to revise.
 Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
 <div align="center">
-<img src="./images/3.Jay%20Arre%20Talosig.png" width="1000" />
+<!-- <img src="./images/3.Jay%20Arre%20Talosig.png" width="1000" /> -->
 
 <h1>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h1>
 
