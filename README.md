@@ -364,6 +364,22 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+# 📜 FreeCodeCamp Certifications
+
+<div align="center">
+
+|   | Certification | Verify |
+| :---: | :--- | :---: |
+| 🎓 | **Legacy Full Stack** | [**View**](https://www.freecodecamp.org/certification/flexycode/full-stack) |
+| 🎓 | **Legacy Responsive Web Design V8** | [**View**](https://www.freecodecamp.org/certification/flexycode/responsive-web-design) |
+| 🎓 | **Legacy JavaScript Algorithms and Data Structures V7** | [**View**](https://www.freecodecamp.org/certification/flexycode/javascript-algorithms-and-data-structures) |
+| 🎓 | **Back End Development and APIs V8** | [**View**](https://www.freecodecamp.org/certification/flexycode/javascript-algorithms-and-data-structures) |
+| 🎓 | **Legacy Information Security and Quality Assurance** | [**View**](https://www.freecodecamp.org/certification/flexycode/information-security-and-quality-assurance) |
+
+</div>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 <!-- GitHuB contributions such as GitHuB Workflow Status, GitHub release, GitHub marketplace, Github contribution graph, GitHub Trophies, GitHub Snake Animation Workflow -->
 # 📈 GitHub Contribution:
 
