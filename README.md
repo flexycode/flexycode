@@ -397,11 +397,11 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <a href="https://github.com/flexycode"><img src="https://github-readme-activity-graph.vercel.app/graph?username=flexycode&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
 
 # <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2>
-![Flexycode GitHub stats](https://github-readme-stats.vercel.app/api?username=flexycode&show_icons=true&theme=ambient_gradient)<br/>
+![Flexycode GitHub stats](https://github-readme-stats.vercel.app/api?username=flexycode&show_icons=true&theme=radical)<br/>
 
-![Flexycode GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=flexycode&theme=merko&border=false)<br/>
+![Flexycode GitHub stats](https://streak-stats.demolab.com?user=flexycode&theme=radical&border=false)<br/>
 <!-- For more theme color visit this link https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-![Flexycode GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flexycode&langs_count=11&theme=ambient_gradient&border=false&include_all_commits=true&count_private=true&layout=compact) 
+![Flexycode GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flexycode&langs_count=11&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <!-- Edit Next time Harloks WakaTime 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flexycode)](https://github.com/anuraghazra/github-readme-stats)
