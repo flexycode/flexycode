@@ -370,7 +370,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 
 <img src="./images/4.Jay%20Arre%20Talosig.png" width="1000" />
 
-# 📜 FreeCodeCamp Certifications
+# 📜 FreeCodeCamp & DataCamp Certifications
 
 <div align="center">
 
@@ -381,6 +381,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 | 🎓 | **Legacy JavaScript Algorithms and Data Structures V7** | [**View**](https://www.freecodecamp.org/certification/flexycode/javascript-algorithms-and-data-structures) |
 | 🎓 | **Back End Development and APIs V8** | [**View**](https://www.freecodecamp.org/certification/flexycode/javascript-algorithms-and-data-structures) |
 | 🎓 | **Legacy Information Security and Quality Assurance** | [**View**](https://www.freecodecamp.org/certification/flexycode/information-security-and-quality-assurance) |
+| 🎓 | **Intro to Python for Data Science Course** | [**View**](https://www.datacamp.com/completed/statement-of-accomplishment/course/c9fd0d0411bb080fc2e6c316726f222ffe797f41) |
 
 </div>
 <br>
