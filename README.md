@@ -78,7 +78,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 💎 Welcome to my GitHub Profile 💎
 
 🔭 I’m currently studying on Artificial Intelligence, Machine Learning, Quantum Technology, A.I Cloud and Biology.<br>
-📓 I am currently a third year student pursuing a BS in Computer Science with a specialization in Machine Learning at National University.<br>
+📓 I am currently a 4th year student pursuing a BS in Computer Science with a specialization in Machine Learning at National University.<br>
 📓 I'm planning to take a Master Degree for Artificial Intelligence or BioInformatics by the year of 2027 <br>
 🧠 In addition to my studies at National University, I am also enrolled in the "CS50’s<br>
 🧠 Introduction to Artificial Intelligence with Python" course at Harvard University.<br>
